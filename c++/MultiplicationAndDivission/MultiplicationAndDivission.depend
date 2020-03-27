@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585316471 source:e:\softwares\codes\c++\multiplicationanddivission\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
